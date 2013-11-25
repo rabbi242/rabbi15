@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wraper{padding:100px;}
+
+a:hover{font-size:40px; color:#33CC33;}
+
+h1{font-size:40px; font-family:"Times New Roman", Times, serif;}
+h2{color:#CC0000; font-size:35px;}
+
+#fast{float:left; }
+.cc{float:left; margin-top:20px; margin-left:20px;}
+
+#sec{clear:left; float:left;}
+
+#tha{float:left; margin-left:20px;}
+
+#for{clear:left; float:left;}
+
+#five{float:left; margin-left:20px; margin-top:85px;}
+
+#six{clear:left; float:left;}
+
+#seven{float:left; margin-left:20px;}
+
+#eight{border-top-style:dashed;}
+
+#eight{clear:both; margin-top:30px;}
+
+#nine{margin-top:30px;}
+#nine{border-top-style:dashed;}
+
+#ten{position:relative; margin-top:45px;}
+
+#h{margin-top:30px; border-top-style:dashed;}
+
+.rabbi{margin-top:-170px; margin-left:20px;}
+
+#ax img{float:left; margin-right:20px;}
+
+#hx{clear:left; margin-top:100px;}
+
+#hx img{float:left; margin-right:20px;}
+
+#vx{clear:left; margin-top:100px;}
+
+#vx img{float:left; margin-right:20px; margin-left:20px;}
+
+#bx{clear:left; margin-top:100px;}
+
+#bx img{float:left; margin-right:20px; margin-left:20px;}
+
+.h2{border-top-style:hidden;}
+
+#fit{clear:left; margin-top:100px;}
+
+#fit img{float:left; margin-right:20px; margin-left:20px;}
+
